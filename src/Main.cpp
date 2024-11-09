@@ -1,6 +1,6 @@
 #include "api/Logger.hpp"
 
-Logger logger("KobeBryant-Plugin-Template");
+Logger logger("Native-Plugin-Template");
 
 // 此处写插件加载时执行的操作
 void onEnable() {

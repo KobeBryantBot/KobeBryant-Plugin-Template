@@ -1,2 +1,2 @@
-# KobeBryant-Plugin-Template
+# Native-Plugin-Template
 Native plugin template for KobeBryant

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15.0)
-project(KobeBryant-Plugin-Template LANGUAGES CXX)
+project(Native-Plugin-Template LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED 23)
